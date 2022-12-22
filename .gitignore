@@ -1,0 +1,78 @@
+
+# Default ignored files
+/shelf/
+/Coinmarketcap.xml
+
+# Build directories
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+*.ser
+.gradle
+build
+distrib/
+tmp/
+gen-external-apklibs/
+out/
+*~
+libpeerconnection.log
+
+# idea
+.idea
+.idea/
+*.iml
+/Coinmarketcap.iml
+local.properties
+*.iws
+*.ipr
+test-output/
+.DS_Store
+.project
+.settings
+.classpath
+.vscode
+.java-version
+build/
+bin/
+
+# mr (see .mrconfig)
+wiki
+
+# vim
+*.sw?
+
+# generated code
+.teamcity
+
+# .jar
+!gradle-wrapper.jar
+
+#Report
+report-result/
+src/main/resources/*.xlsx
+*.xlsx
+*.exe
+*.log
+
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+## Java
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
