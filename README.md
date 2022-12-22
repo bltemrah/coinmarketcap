@@ -38,6 +38,7 @@ All scenarios are based on the below steps;
 - The **MainPageStepDefinitions** class has all assertions and calls action methods from **MainPagesActions** and **MainPageLocators** 
 - **Hooks** class has all @Before and @After action such as setup and close.
 - Because I work only one page, I prefer inheritance OOP concept to extend **MainPageStepDefinitions** with **MainPagesActions**. However, it is also possible to use constructor with object. 
+- Different browser type can be selected in **Driver** class
 
 ### Test scenarios
 
